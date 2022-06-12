@@ -1,7 +1,7 @@
-package com.shannonAJ.leetcode.designpattern;
+package com.silenceland.leetcode.designpattern;
 
 /**
- * @author ShannonAJ
+ * @author silenceland
  * @description ListNode
  * @date 2022/2/11
  */

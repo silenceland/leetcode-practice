@@ -1,7 +1,7 @@
-package com.shannonAJ.leetcode.findwork;
+package com.silenceland.leetcode.findwork;
 
 /**
- * @author ShannonAJ
+ * @author silenceland
  * @description MaxLongHuiWenString
  * @date 2021/8/2
  * 最长回文字符子串

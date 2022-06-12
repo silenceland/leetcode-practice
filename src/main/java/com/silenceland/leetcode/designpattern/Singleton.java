@@ -1,7 +1,7 @@
-package com.shannonAJ.leetcode.designpattern;
+package com.silenceland.leetcode.designpattern;
 
 /**
- * @author ShannonAJ
+ * @author silenceland
  * @description Singleton
  * @date 2022/1/21
  * 懒汉式

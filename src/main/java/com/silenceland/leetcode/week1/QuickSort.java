@@ -1,9 +1,9 @@
-package com.shannonAJ.leetcode.week1;
+package com.silenceland.leetcode.week1;
 
 import java.util.Arrays;
 
 /**
- * @author ShannonAJ
+ * @author silenceland
  * @description QuickSort
  * @date 2022/1/19
  */

@@ -1,4 +1,4 @@
-package com.shannonAJ.leetcode;
+package com.silenceland.leetcode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -30,7 +30,7 @@ public class TwoChaTreeJuChiBianLi {
             return null;
         }
 
-        Queue<com.shannonAJ.leetcode.TreeNode> queue = new LinkedList<com.shannonAJ.leetcode.TreeNode>();
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
         queue.add(root);
         while (!queue.isEmpty()) {
             List<Integer> level = new ArrayList<Integer>();

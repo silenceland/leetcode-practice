@@ -1,6 +1,4 @@
-package com.shannonAJ.leetcode.datacenter;
-
-import java.util.List;
+package com.silenceland.leetcode.datacenter;
 
 /**
  * 2.两数之和

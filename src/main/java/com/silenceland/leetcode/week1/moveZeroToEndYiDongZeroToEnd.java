@@ -1,4 +1,4 @@
-package com.shannonAJ.leetcode.week1;
+package com.silenceland.leetcode.week1;
 /**
  * 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
  *

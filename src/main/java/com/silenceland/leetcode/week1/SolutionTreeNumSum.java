@@ -1,4 +1,4 @@
-package com.shannonAJ.leetcode.week1;
+package com.silenceland.leetcode.week1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

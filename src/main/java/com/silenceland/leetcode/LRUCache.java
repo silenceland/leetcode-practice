@@ -1,10 +1,10 @@
-//package com.shannonAJ.leetcode;
+//package com.silenceland.leetcode;
 //
 //import java.util.HashMap;
 //import java.util.Map;
 //
 ///**
-// * @author ShannonAJ
+// * @author silenceland
 // * @description LRUCache
 // * @date 2022/3/17
 // */

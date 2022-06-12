@@ -1,4 +1,4 @@
-package com.shannonAJ.leetcode.week1;
+package com.silenceland.leetcode.week1;
 
 import javax.print.attribute.standard.RequestingUserName;
 import java.util.ArrayList;

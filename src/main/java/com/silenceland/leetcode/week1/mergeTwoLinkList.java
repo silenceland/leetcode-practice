@@ -1,4 +1,4 @@
-package com.shannonAJ.leetcode.week1;
+package com.silenceland.leetcode.week1;
 
 /**
  * 两个有序单链表l1、l2，合并为一个有序单链表
