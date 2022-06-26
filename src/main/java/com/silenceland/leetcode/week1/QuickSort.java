@@ -6,6 +6,10 @@ import java.util.Arrays;
  * @author silenceland
  * @description QuickSort
  * @date 2022/1/19
+ *
+ * 快速排序
+ * 面试中常见小题
+ * Aftership/腾讯PCG遇到过
  */
 public class QuickSort {
     public static void main(String[] args) {

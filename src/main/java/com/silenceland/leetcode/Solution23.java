@@ -10,6 +10,9 @@ import java.util.stream.Collectors;
  * @author Silenceland
  * @description Solution23
  * @date 2022/6/6
+ *
+ * 兴业数金笔试题
+ * 找寻有序数组中缺失的整数
  */
 public class Solution23 {
 

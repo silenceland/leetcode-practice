@@ -29,6 +29,7 @@ public class MaxWaterContainer_11 {
         System.out.println(maxArea(array));
     }
 
+    // 双指针法，左右两个指针分别向中间移动
     private static int maxArea(int[] height) {
         int left = 0, right = height.length - 1;
         int max = 0;

@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 三数之和
+ * 快手二面算法题
+ */
 public class SolutionTreeNumSum {
 
     public static void main(String[] args) {

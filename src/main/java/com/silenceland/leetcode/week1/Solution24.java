@@ -1,5 +1,8 @@
 package com.silenceland.leetcode.week1;
 
+/**
+ * 移动0
+ */
 public class Solution24 {
 
     public static void main(String[] args) {
